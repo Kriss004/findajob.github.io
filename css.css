@@ -1,0 +1,55 @@
+h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 60px;
+    font-family: cursive;
+
+}
+table,tr,td{
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: cursive;
+
+}
+img {
+    height: 40vh;
+    width: 30%;
+    padding: 10px;
+}
+.aa{
+    height: 40vh;
+    width: 300px;
+}
+body{
+    background-color: black;
+}
+.form{
+    color: whitesmoke;
+}
+p{
+    color: whitesmoke;
+}
+h2{
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: underline whitesmoke;
+}
+button{
+    color: whitesmoke;
+    background-color: midnightblue;
+
+}
+button:hover{
+    color: black;
+    background-color: whitesmoke;
+}
+h3{
+    color: deeppink;
+}
+h4{
+    font-size: 20px;
+
+}
+.search{
+    float: right;
+}

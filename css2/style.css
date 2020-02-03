@@ -1,0 +1,20 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: cornflowerblue;
+}
+
+li{
+    float: right;
+}
+
+li a{
+    color: snow;
+    padding: 14px 14px;
+    font-size: 18px;
+    font-family: "URW Gothic L";
+    text-decoration: none;
+    display: block;
+}
